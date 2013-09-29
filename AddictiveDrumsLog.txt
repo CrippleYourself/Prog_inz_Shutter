@@ -1,0 +1,3 @@
+
+
+   XDError  Exception: Cannot find file or directory: E:\Addictive Drums\XDResources
